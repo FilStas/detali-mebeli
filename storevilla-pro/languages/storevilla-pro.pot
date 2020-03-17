@@ -1,0 +1,1914 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StoreVilla Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-21 11:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:25
+msgid "Back To Home"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:53
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:120
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:122 functions.php:132 functions.php:151 functions.php:161
+#: functions.php:171 functions.php:181
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:130
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:141
+msgid "Top Right Header Widget Area"
+msgstr ""
+
+#: functions.php:143
+msgid "Add languages currency widgets here."
+msgstr ""
+
+#: functions.php:149
+msgid "SV : Top HomePage Widget Area"
+msgstr ""
+
+#: functions.php:159
+msgid "SV : Main HomePage Widget Area"
+msgstr ""
+
+#: functions.php:169
+msgid "SV : Sidebar HomePage Widget"
+msgstr ""
+
+#: functions.php:179
+msgid "SV : Buttom HomePage Widget Area"
+msgstr ""
+
+#: functions.php:193
+#, php-format
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: functions.php:195
+#, php-format
+msgid " Add Widgetized Footer Region %d."
+msgstr ""
+
+#: functions.php:205
+msgid "Footer Quick Information Area"
+msgstr ""
+
+#: functions.php:207
+msgid "Add quick contact information widgets here."
+msgstr ""
+
+#: search.php:24
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:9 inc/storevilla-custom-post-type.php:10
+msgid "Testimonial"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:11
+msgid "All Testimonial"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:12
+#: inc/storevilla-custom-post-type.php:80
+msgid "Add New"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:13
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:14
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:15
+#: inc/storevilla-custom-post-type.php:83
+msgid "Edit"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:16
+msgid "New Post Testimonial"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:17
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:18
+msgid "Search Testimonial"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:19
+#: inc/storevilla-custom-post-type.php:87
+msgid "Nothing found in the Database."
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:20
+#: inc/storevilla-custom-post-type.php:88
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:77
+msgid "Team Member"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:78
+msgid "Our Team Member"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:79
+msgid "All Team Member"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:81
+msgid "Add New Team Member"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:82
+msgid "Edit Team Member"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:84
+msgid "New Post Team Member"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:85
+msgid "View Team Member"
+msgstr ""
+
+#: inc/storevilla-custom-post-type.php:86
+msgid "Search Team Member"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:27 inc/woocommerce-hooks.php:85
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:59
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:60
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce-hooks.php:89
+msgid "My Cart"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:138 inc/woocommerce-hooks.php:219
+#: inc/widget/storevilla-widget.php:1477
+msgid "New"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:293 inc/woocommerce-hooks.php:301
+msgid "All Categories"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:318
+msgid "search entire store here"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:356
+msgid "Sale!"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:418 inc/widget/storevilla-widget.php:766
+msgid "View Details"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:43
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:39 template-parts/content.php:39
+msgid "countinue reading"
+msgstr ""
+
+#: template-parts/content-search.php:44 template-parts/content-single.php:31
+#: template-parts/content.php:44
+msgid "Post by :"
+msgstr ""
+
+#: welcome/welcome-config.php:41
+msgid "Revolution Slider "
+msgstr ""
+
+#: welcome/welcome-config.php:42
+msgid "5.4.6"
+msgstr ""
+
+#: welcome/welcome-config.php:49
+msgid ""
+"Slider Revolution 6 is a new way to build rich & dynamic content for your "
+"websites. With our powerful visual editor, you can create modern designs in "
+"no time, and with no coding experience required."
+msgstr ""
+
+#: welcome/welcome-config.php:58
+msgid "Access Demo Importer"
+msgstr ""
+
+#: welcome/welcome-config.php:62
+msgid ""
+"Access Demo Importer adds the feature to Import the Demo Conent with a "
+"single click."
+msgstr ""
+
+#: welcome/welcome-config.php:74
+msgid "Social booster for your site! A FREE plugin with premium features."
+msgstr ""
+
+#: welcome/welcome-config.php:81
+msgid ""
+"Connect your website visitors to your social community in an easy way! Link "
+"up your social media profiles via great looking social buttons."
+msgstr ""
+
+#: welcome/welcome-config.php:88
+msgid "Showcase your Tweets (Twitter Feeds) right on the site."
+msgstr ""
+
+#: welcome/welcome-config.php:94
+msgid "Showcase your Instagram Feeds right on the site."
+msgstr ""
+
+#: welcome/welcome-config.php:103
+msgid ""
+"WOO Product Grid/List Design- Responsive Products Showcase Extension for "
+"Woocommerce"
+msgstr ""
+
+#: welcome/welcome-config.php:104
+msgid "1.0.3"
+msgstr ""
+
+#: welcome/welcome-config.php:111
+msgid ""
+"Design your WooCommerce shop like never before! A complete package for your "
+"Woo shop designer."
+msgstr ""
+
+#: welcome/welcome-config.php:116
+msgid ""
+"Woo Badge Designer - WooCommerce Product Badge Designer WordPress Plugin"
+msgstr ""
+
+#: welcome/welcome-config.php:117
+msgid "1.0.1"
+msgstr ""
+
+#: welcome/welcome-config.php:124
+msgid ""
+"Add some attractive badges on your product listing and single page and "
+"increase your sales upto 55%."
+msgstr ""
+
+#: welcome/welcome-config.php:129
+msgid ""
+"WP Admin White Label Login - WordPress Plugin For Advanced Customizable "
+"Login page"
+msgstr ""
+
+#: welcome/welcome-config.php:130
+msgid "1.3.5"
+msgstr ""
+
+#: welcome/welcome-config.php:137
+msgid ""
+"Make your default wp-admin screen look like a non WP one! Choose from some "
+"great ready to use template designs and many features to boost your "
+"WordPress backend."
+msgstr ""
+
+#: welcome/welcome-config.php:142
+msgid "Easy Side Tab Pro - Responsive Floating Tab Plugin For Wordpress"
+msgstr ""
+
+#: welcome/welcome-config.php:143
+msgid "1.0.6"
+msgstr ""
+
+#: welcome/welcome-config.php:150
+msgid ""
+"Place some great designed floating tabs on your site for quick links. "
+"Increase accessibility of your site."
+msgstr ""
+
+#: welcome/welcome-config.php:155
+msgid "Everest Timeline - Responsive WordPress Timeline Plugin"
+msgstr ""
+
+#: welcome/welcome-config.php:156
+msgid "2.0.2"
+msgstr ""
+
+#: welcome/welcome-config.php:163
+msgid "A perfect timeline maker! If you're planning to make one go for it!"
+msgstr ""
+
+#: welcome/welcome-config.php:170
+msgid "Theme Setup"
+msgstr ""
+
+#. Description of the theme
+#: welcome/welcome-config.php:171
+msgid ""
+"StoreVilla Pro is a modern feature-rich responsive eCommerce WordPress theme "
+"built with the best level of WooCommerce integration along with and its "
+"extensions. The theme provides you an unlimited customization possibilities, "
+"powerful support, top-notch beautiful design, and loads of awesome features. "
+"It is a complete WordPress template for creating an online shop/ store of "
+"any kind like fashion and clothing store, tech items store, interior store, "
+"medical shops, grocery store etc. It is fully based on live WordPress "
+"Customizer which makes your task a lot easier. It features ultimate "
+"eCommerce options, unlimited color options, advanced typography, unlimited "
+"slider settings - inbuilt slider and Slider Revolution premium plugin "
+"support, one click demo import, 15+ custom widgets etc. It is fully mobile-"
+"responsive, retina ready, SEO optimized, multilingual theme that is an ideal "
+"choice for anyone and everyone."
+msgstr ""
+
+#: welcome/welcome-config.php:174
+msgid "Install and Activate"
+msgstr ""
+
+#: welcome/welcome-config.php:175
+msgid "Deactivate"
+msgstr ""
+
+#: welcome/welcome-config.php:176 welcome/welcome-config.php:193
+msgid "Activate"
+msgstr ""
+
+#: welcome/welcome-config.php:179
+msgid "Step 1 - Documentation"
+msgstr ""
+
+#: welcome/welcome-config.php:180
+msgid ""
+"Read the Documentation and follow the instructions to manage the site , it "
+"helps you to set up the theme more easily and quickly. The Documentation is "
+"very easy with its pictorial  and well managed listed instructions. "
+msgstr ""
+
+#: welcome/welcome-config.php:181
+msgid "Read Now"
+msgstr ""
+
+#: welcome/welcome-config.php:182
+msgid "Step 2 - Customizer Panel"
+msgstr ""
+
+#: welcome/welcome-config.php:183
+msgid ""
+"Using the customizer panel you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: welcome/welcome-config.php:184
+msgid "Go to Customizer Panels"
+msgstr ""
+
+#: welcome/welcome-config.php:187 welcome/welcome-config.php:203
+msgid "Premium Plugins"
+msgstr ""
+
+#: welcome/welcome-config.php:188 welcome/welcome-config.php:204
+msgid "Free Plugins"
+msgstr ""
+
+#: welcome/welcome-config.php:194
+msgid "Activated"
+msgstr ""
+
+#: welcome/welcome-config.php:195
+msgid "Installing Demo"
+msgstr ""
+
+#: welcome/welcome-config.php:196
+msgid "Demo Installed"
+msgstr ""
+
+#: welcome/welcome-config.php:197
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: welcome/welcome-config.php:200
+msgid ""
+"All these required plugins will be installed and activated while importing "
+"demo. Or you can choose to install and activate them manually. If you're not "
+"importing any of the demos, you must install and activate these plugins "
+"manually."
+msgstr ""
+
+#: welcome/welcome-config.php:201
+msgid "All Recommended action has been successfully completed."
+msgstr ""
+
+#: welcome/welcome-config.php:202
+msgid "Customize Theme"
+msgstr ""
+
+#: welcome/welcome.php:33
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/welcome.php:34
+msgid "Required Plugins"
+msgstr ""
+
+#: welcome/welcome.php:35
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome/welcome.php:36
+msgid "Import Demo"
+msgstr ""
+
+#: welcome/welcome.php:37
+msgid "ChangeLog"
+msgstr ""
+
+#: welcome/welcome.php:38
+msgid "Support"
+msgstr ""
+
+#: welcome/welcome.php:111
+msgid "Welcome!"
+msgstr ""
+
+#: welcome/welcome.php:112
+#, php-format
+msgid ""
+"Thank you for installing %1$s. It is now installed and ready to use. Here "
+"are some useful links to get started: "
+msgstr ""
+
+#: welcome/welcome.php:124
+msgid "Starter site demos!"
+msgstr ""
+
+#: welcome/welcome.php:129
+msgid "ready to use starter sites."
+msgstr ""
+
+#: welcome/welcome.php:133
+msgid ""
+"You can also reach-out to us for any support during the theme setup and use."
+msgstr ""
+
+#: welcome/welcome.php:134
+msgid "Contact Support"
+msgstr ""
+
+#: welcome/welcome.php:142 welcome/sections/support.php:31
+msgid "Documentation"
+msgstr ""
+
+#: welcome/welcome.php:145
+msgid "Full Documentation"
+msgstr ""
+
+#: welcome/welcome.php:149
+msgid "Return to your Dashboard"
+msgstr ""
+
+#: welcome/welcome.php:161
+msgid "Setup"
+msgstr ""
+
+#: welcome/welcome.php:177
+#, php-format
+msgid "Welcome to %s - Version %s"
+msgstr ""
+
+#: welcome/welcome.php:178
+#, php-format
+msgid ""
+"%s is a modern feature-rich responsive eCommerce WordPress theme built with "
+"the best level of WooCommerce integration along with and its extensions. The "
+"theme provides you an unlimited customization possibilities, powerful "
+"support, top-notch beautiful design, and loads of awesome features. It is a "
+"complete WordPress template for creating an online shop/ store of any kind "
+"like fashion and clothing store, tech items store, interior store, medical "
+"shops, grocery store etc. It is fully based on live WordPress Customizer "
+"which makes your task a lot easier. It features ultimate eCommerce options, "
+"unlimited color options, advanced typography, unlimited slider settings - "
+"inbuilt slider and Slider Revolution premium plugin support, one click demo "
+"import, 15+ custom widgets etc. It is fully mobile-responsive, retina ready, "
+"SEO optimized, multilingual theme that is an ideal choice for anyone and "
+"everyone."
+msgstr ""
+
+#: welcome/welcome.php:213
+msgid "Get connected, share your opinions and more via our social community: "
+msgstr ""
+
+#: welcome/welcome.php:215
+msgid " -to receive updates, offers and more."
+msgstr ""
+
+#: welcome/welcome.php:217
+msgid " -for tutorials, videos and more."
+msgstr ""
+
+#: welcome/welcome.php:219
+msgid " -to stay updated. "
+msgstr ""
+
+#: welcome/welcome.php:223
+#, php-format
+msgid "Are you enjoying %1$s? We would love to hear your feedback!"
+msgstr ""
+
+#: welcome/welcome.php:358
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: welcome/welcome.php:368
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: welcome/welcome.php:460 welcome/welcome.php:480
+msgid "Plugin Does not Exists"
+msgstr ""
+
+#: inc/core/extras.php:277
+msgid "Display Layout Options"
+msgstr ""
+
+#: inc/core/extras.php:286
+msgid "Testimonial Details"
+msgstr ""
+
+#: inc/core/extras.php:295
+msgid "Our Team Member Details"
+msgstr ""
+
+#: inc/core/extras.php:308
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/core/extras.php:313
+msgid "Right Sidebar(Default)"
+msgstr ""
+
+#: inc/core/extras.php:318
+msgid "Full width"
+msgstr ""
+
+#: inc/core/extras.php:323
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/core/extras.php:463
+msgid "Team Member Name"
+msgstr ""
+
+#: inc/core/extras.php:469
+msgid "Team Member Position"
+msgstr ""
+
+#: inc/core/extras.php:476
+msgid "Team Member Email"
+msgstr ""
+
+#: inc/core/extras.php:482
+msgid "Team Member Web Link"
+msgstr ""
+
+#: inc/core/extras.php:488 inc/widget/aboutinfo-widget.php:41
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/core/extras.php:494 inc/widget/aboutinfo-widget.php:47
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/core/extras.php:500 inc/widget/aboutinfo-widget.php:53
+msgid "Google Plus Url"
+msgstr ""
+
+#: inc/core/extras.php:506 inc/widget/aboutinfo-widget.php:65
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/core/extras.php:830
+msgid "Home"
+msgstr ""
+
+#: inc/core/extras.php:845
+msgid "Archive by category"
+msgstr ""
+
+#: inc/core/extras.php:847
+msgid "Search results for"
+msgstr ""
+
+#: inc/core/extras.php:905
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/core/extras.php:909
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/core/extras.php:917
+msgid "Page"
+msgstr ""
+
+#: inc/core/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/core/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/core/template-tags.php:50 inc/core/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/core/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/core/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/core/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/core/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/core/template-tags.php:142
+msgid "Skip to navigation"
+msgstr ""
+
+#: inc/core/template-tags.php:143
+msgid "Skip to content"
+msgstr ""
+
+#: inc/core/template-tags.php:260 inc/core/template-tags.php:261
+msgid "My Account"
+msgstr ""
+
+#: inc/core/template-tags.php:267
+msgid " Logout"
+msgstr ""
+
+#: inc/core/template-tags.php:275
+msgid "Login / Register"
+msgstr ""
+
+#: inc/core/template-tags.php:511
+#, php-format
+msgid "%1$s By %2$s"
+msgstr ""
+
+#: inc/core/template-tags.php:685
+msgid "Add to Wishlist"
+msgstr ""
+
+#: inc/core/template-tags.php:686
+msgid "Add Wishlist"
+msgstr ""
+
+#: inc/core/template-tags.php:693
+msgid "View Wishlist"
+msgstr ""
+
+#: inc/core/template-tags.php:697
+msgid "Browse Wishlist"
+msgstr ""
+
+#: inc/core/template-tags.php:718
+msgid "Wishlist"
+msgstr ""
+
+#: inc/core/template-tags.php:765
+msgid "Browse Categories"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:58
+msgid "storevilla"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:62 inc/customizer/class-repeater.php:145
+#: inc/customizer/class-repeater.php:216
+msgid "Image type"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:64 inc/customizer/class-repeater.php:76
+#: inc/customizer/class-repeater.php:98 inc/customizer/class-repeater.php:147
+#: inc/customizer/class-repeater.php:159 inc/customizer/class-repeater.php:176
+#: inc/customizer/class-repeater.php:218 inc/customizer/class-repeater.php:230
+#: inc/customizer/class-repeater.php:247
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:65 inc/customizer/class-repeater.php:70
+#: inc/customizer/class-repeater.php:88 inc/customizer/class-repeater.php:148
+#: inc/customizer/class-repeater.php:153 inc/customizer/class-repeater.php:170
+#: inc/customizer/class-repeater.php:219 inc/customizer/class-repeater.php:224
+#: inc/customizer/class-repeater.php:241
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:66 inc/customizer/class-repeater.php:149
+#: inc/customizer/class-repeater.php:220
+msgid "None"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:72 inc/customizer/class-repeater.php:91
+#: inc/customizer/class-repeater.php:155 inc/customizer/class-repeater.php:173
+#: inc/customizer/class-repeater.php:226 inc/customizer/class-repeater.php:244
+#: inc/widget/aboutinfo-widget.php:28
+msgid "Upload Image"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:111 inc/customizer/class-repeater.php:112
+#: inc/customizer/class-repeater.php:187 inc/customizer/class-repeater.php:188
+#: inc/customizer/class-repeater.php:256 inc/customizer/class-repeater.php:257
+#: inc/widget/contactinfo-widget.php:28
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:117 inc/customizer/class-repeater.php:118
+#: inc/customizer/class-repeater.php:193 inc/customizer/class-repeater.php:194
+#: inc/customizer/class-repeater.php:259 inc/customizer/class-repeater.php:260
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:122 inc/customizer/class-repeater.php:123
+#: inc/customizer/class-repeater.php:197 inc/customizer/class-repeater.php:198
+#: inc/customizer/class-repeater.php:262 inc/customizer/class-repeater.php:263
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:128 inc/customizer/class-repeater.php:129
+#: inc/customizer/class-repeater.php:200 inc/customizer/class-repeater.php:201
+#: inc/customizer/class-repeater.php:265 inc/customizer/class-repeater.php:266
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:134 inc/customizer/class-repeater.php:204
+#: inc/customizer/class-repeater.php:269
+msgid "Delete field"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:142
+msgid "storevilla-pro"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:213
+msgid "Store Villa"
+msgstr ""
+
+#: inc/customizer/class-repeater.php:278
+msgid "Add new field"
+msgstr ""
+
+#: inc/customizer/customizer.php:17
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:27
+msgid "Check to Disable Preloader"
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:50 inc/customizer/customizer.php:98
+#: inc/customizer/customizer.php:909
+msgid "This allows to edit the header"
+msgstr ""
+
+#: inc/customizer/customizer.php:62
+msgid "Themes Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:72
+msgid "Primary Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:86
+msgid "Secondary Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:97 welcome/sections/getting_started.php:26
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:103 inc/customizer/customizer.php:180
+msgid "Top Header Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:116 inc/customizer/customizer.php:163
+msgid "Enable / Disable Top Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:120 inc/customizer/customizer.php:366
+#: inc/customizer/customizer.php:403 inc/customizer/customizer.php:440
+#: inc/customizer/customizer.php:484 inc/customizer/customizer.php:579
+#: inc/customizer/customizer.php:932 inc/customizer/customizer.php:1165
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/customizer.php:121 inc/customizer/customizer.php:367
+#: inc/customizer/customizer.php:404 inc/customizer/customizer.php:441
+#: inc/customizer/customizer.php:485 inc/customizer/customizer.php:580
+#: inc/customizer/customizer.php:933 inc/customizer/customizer.php:1166
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/customizer.php:127
+msgid "Header Type Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:139
+msgid "Header Types"
+msgstr ""
+
+#: inc/customizer/customizer.php:142 inc/customizer/customizer.php:1191
+msgid "Header One"
+msgstr ""
+
+#: inc/customizer/customizer.php:143 inc/customizer/customizer.php:1192
+msgid "Header Two"
+msgstr ""
+
+#: inc/customizer/customizer.php:144 inc/customizer/customizer.php:1193
+msgid "Header Three"
+msgstr ""
+
+#: inc/customizer/customizer.php:150
+msgid "Web Page Layout Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:167
+msgid "Box Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:168
+msgid "Full Width Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:183 inc/customizer/customizer.php:1177
+msgid "Top Navigation"
+msgstr ""
+
+#: inc/customizer/customizer.php:184 inc/customizer/customizer.php:1178
+msgid "Quick Info"
+msgstr ""
+
+#: inc/customizer/customizer.php:185 inc/customizer/customizer.php:1179
+msgid "Offer Ticker"
+msgstr ""
+
+#: inc/customizer/customizer.php:198
+msgid "Offer Ticker Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:211 inc/customizer/customizer.php:551
+msgid "Main Slider Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:226 inc/customizer/customizer.php:256
+#: inc/customizer/customizer.php:286 inc/customizer/customizer.php:317
+#: inc/customizer/customizer.php:946 inc/customizer/customizer.php:987
+#: inc/customizer/customizer.php:1028
+#, php-format
+msgid "Use font awesome icon: Eg: %s. %sSee more here%s"
+msgstr ""
+
+#: inc/customizer/customizer.php:227
+msgid "Email Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:241
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/customizer.php:257
+msgid "Phone Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:271
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/customizer.php:287
+msgid "Address Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:301
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/customizer.php:318
+msgid "Shop Open Time Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:332
+msgid "Shop Opening Time"
+msgstr ""
+
+#: inc/customizer/customizer.php:344 welcome/sections/getting_started.php:21
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:345
+msgid "This allows to upload breadcrumb background image"
+msgstr ""
+
+#: inc/customizer/customizer.php:349
+msgid "WooCommerce Breadcrumb Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:362 inc/customizer/customizer.php:399
+#: inc/customizer/customizer.php:436
+msgid "Enable/Disable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/customizer.php:379 inc/customizer/customizer.php:416
+#: inc/customizer/customizer.php:453
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:381 inc/customizer/customizer.php:418
+#: inc/customizer/customizer.php:455
+msgid ""
+"Uplaod Breadcrumb Background Image, Breadcrumb Background Image Size of 2000 "
+"&#215; 156 Pixels."
+msgstr ""
+
+#: inc/customizer/customizer.php:386
+msgid "Breadcrumb Page Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:423
+msgid "Breadcrumb Post Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:461
+msgid "Mange all banner and promo settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:463
+msgid "Main Banner Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:467
+msgid "Banner Settings Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:480
+msgid "Enable / Disable Main Banner Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:497
+msgid "Choose Slider Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:501 inc/customizer/customizer.php:1236
+msgid "Normal Slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:502 inc/customizer/customizer.php:1237
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:513
+msgid "Revolution Slider Shortcode"
+msgstr ""
+
+#: inc/customizer/customizer.php:515
+msgid ""
+"Enter the Revolution Slider Plugins Shortcode Example ([rev_slider "
+"yourslidername])"
+msgstr ""
+
+#: inc/customizer/customizer.php:528
+msgid "Banner Slider Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:539
+msgid "Main Banner Section Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:553
+msgid "Upload Slider Image With Slider Title, Description, Link & Button Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:562
+msgid "Banner sidebar Promo Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:575
+msgid "Enable / Disable Main Banner Promo Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:592
+msgid "Upload Promo One Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:604
+msgid "Promo One Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:617
+msgid "Promo One Short Description"
+msgstr ""
+
+#: inc/customizer/customizer.php:631
+msgid "Promo One Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:643
+msgid "Upload Promo Two Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:656
+msgid "Promo Two Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:669
+msgid "Promo Two Short Description"
+msgstr ""
+
+#: inc/customizer/customizer.php:683
+msgid "Promo Two Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:697
+msgid "Upload Promo Three Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:710
+msgid "Promo Three Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:723
+msgid "Promo Three Short Description"
+msgstr ""
+
+#: inc/customizer/customizer.php:737
+msgid "Promo Three Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:748
+msgid "Mange products and singel product page settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:750
+msgid "WooCommerce Products Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:757
+msgid "Products Pages Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:769
+msgid "Select Products pages Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:787
+msgid "Select Products Pages Row"
+msgstr ""
+
+#: inc/customizer/customizer.php:804
+msgid "Enter Products Display Per Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:814
+msgid "Single Products Page Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:826
+msgid "Select Single Products Page Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:844
+msgid "Enter Up Sell Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:858
+msgid "Enter Related Products Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:866
+msgid "Brands Logo Section Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:878
+msgid "Our Brands Logo Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:880
+msgid "Upload Your Brands Logo Here"
+msgstr ""
+
+#: inc/customizer/customizer.php:887
+msgid "Custom CSS Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:898
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:908
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:915
+msgid "Services Section Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:928
+msgid "Options Enable/Disable Service Area"
+msgstr ""
+
+#: inc/customizer/customizer.php:947
+msgid "Service Icon One"
+msgstr ""
+
+#: inc/customizer/customizer.php:960
+msgid "Service One Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:973 inc/customizer/customizer.php:1014
+#: inc/customizer/customizer.php:1055
+msgid "Service Area Very Short Description"
+msgstr ""
+
+#: inc/customizer/customizer.php:988
+msgid "Service Icon Two"
+msgstr ""
+
+#: inc/customizer/customizer.php:1001
+msgid "Service Two Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:1029
+msgid "Service Icon Three"
+msgstr ""
+
+#: inc/customizer/customizer.php:1042
+msgid "Service Three Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:1063
+msgid "Copyright Message Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1076
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/customizer.php:1083
+msgid "Payment Logo Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1095 inc/customizer/customizer.php:1106
+#: inc/customizer/customizer.php:1117 inc/customizer/customizer.php:1128
+#: inc/customizer/customizer.php:1139 inc/customizer/customizer.php:1150
+msgid "Upload Payment Logo Image"
+msgstr ""
+
+#: inc/typography/typography.php:20
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/typography/typography.php:24
+msgid "Paragraphs"
+msgstr ""
+
+#: inc/typography/typography.php:39
+msgid "Paragraph Typography"
+msgstr ""
+
+#: inc/typography/typography.php:40 inc/typography/typography.php:74
+#: inc/typography/typography.php:108 inc/typography/typography.php:142
+#: inc/typography/typography.php:177 inc/typography/typography.php:211
+#: inc/typography/typography.php:245
+msgid "Select how you want your paragraphs to appear."
+msgstr ""
+
+#: inc/typography/typography.php:58
+msgid "Header (H1)"
+msgstr ""
+
+#: inc/typography/typography.php:73
+msgid "Header1 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:92
+msgid "Header (H2)"
+msgstr ""
+
+#: inc/typography/typography.php:107
+msgid "Header2 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:126
+msgid "Header (H3)"
+msgstr ""
+
+#: inc/typography/typography.php:141
+msgid "Header3 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:161
+msgid "Header (H4)"
+msgstr ""
+
+#: inc/typography/typography.php:176
+msgid "Header4 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:195
+msgid "Header (H5)"
+msgstr ""
+
+#: inc/typography/typography.php:210
+msgid "Header5 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:229
+msgid "Header (H6)"
+msgstr ""
+
+#: inc/typography/typography.php:244
+msgid "Header6 Typography"
+msgstr ""
+
+#: inc/widget/aboutinfo-widget.php:18
+msgid "A widget that shows About Us information"
+msgstr ""
+
+#: inc/widget/aboutinfo-widget.php:34
+msgid "Short Description"
+msgstr ""
+
+#: inc/widget/aboutinfo-widget.php:59
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/widget/aboutinfo-widget.php:71
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/widget/blog-widget.php:18
+msgid "A widget that shows blogs posts"
+msgstr ""
+
+#: inc/widget/blog-widget.php:42
+msgid "Blogs Top Title"
+msgstr ""
+
+#: inc/widget/blog-widget.php:48
+msgid "Blogs Main Title"
+msgstr ""
+
+#: inc/widget/blog-widget.php:54
+msgid "Select Blogs Category"
+msgstr ""
+
+#: inc/widget/blog-widget.php:61
+msgid "Display Posts Order"
+msgstr ""
+
+#: inc/widget/blog-widget.php:71
+msgid "Enter Display Number of Posts"
+msgstr ""
+
+#: inc/widget/blog-widget.php:77
+msgid "Select Blog Display Layout Style"
+msgstr ""
+
+#: inc/widget/blog-widget.php:175
+msgid "READ MORE"
+msgstr ""
+
+#: inc/widget/blog-widget.php:196 inc/widget/blog-widget.php:213
+msgid "Read More"
+msgstr ""
+
+#: inc/widget/contactinfo-widget.php:18
+msgid "A widget that shows quick contact information"
+msgstr ""
+
+#: inc/widget/contactinfo-widget.php:33
+msgid "Contact Address"
+msgstr ""
+
+#: inc/widget/contactinfo-widget.php:39
+msgid "Contact Number"
+msgstr ""
+
+#: inc/widget/contactinfo-widget.php:44
+msgid "Contact Email Address"
+msgstr ""
+
+#: inc/widget/logo-widget.php:18
+msgid "A widget that promote your busincess brands logo"
+msgstr ""
+
+#: inc/widget/logo-widget.php:28 inc/widget/storevilla-widget.php:881
+#: inc/widget/storevilla-widget.php:1433
+msgid "Top Title"
+msgstr ""
+
+#: inc/widget/logo-widget.php:34
+msgid "Main Title"
+msgstr ""
+
+#: inc/widget/promo-widget.php:18
+msgid "A widget that promote you busincess visual way"
+msgstr ""
+
+#: inc/widget/promo-widget.php:31
+msgid " Full Promo Background Image"
+msgstr ""
+
+#: inc/widget/promo-widget.php:37
+msgid "Enter Full Promo Title"
+msgstr ""
+
+#: inc/widget/promo-widget.php:43
+msgid "Enter Very Short Full Promo Description"
+msgstr ""
+
+#: inc/widget/promo-widget.php:50
+msgid "Full Promo Button Link"
+msgstr ""
+
+#: inc/widget/promo-widget.php:56
+msgid "Full Promo Button Text"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:23
+msgid "A widget that shows WooCommerce category in tabs format"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:58 inc/widget/storevilla-widget.php:250
+msgid "Select Category Tabs"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:65
+msgid "Enter the Number Products Display"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:71
+msgid "Select Tabs Layout Style"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:209
+msgid ""
+"A widget that shows WooCommerce category products in vertical tabs format"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:244
+msgid "Enter Vertical Tabs Title"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:257
+msgid "Upload Vertical Tabs Promo Image"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:413
+msgid "A widget that shows WooCommerce products."
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:420 inc/widget/storevilla-widget.php:846
+#: inc/widget/storevilla-widget.php:1345 inc/widget/storevilla-widget.php:1621
+msgid "Category"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:421 inc/widget/storevilla-widget.php:847
+#: inc/widget/storevilla-widget.php:1423 inc/widget/storevilla-widget.php:1620
+msgid "Latest Product"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:422 inc/widget/storevilla-widget.php:1424
+#: inc/widget/storevilla-widget.php:1622
+msgid "UpSell Product"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:423 inc/widget/storevilla-widget.php:848
+#: inc/widget/storevilla-widget.php:1425 inc/widget/storevilla-widget.php:1623
+msgid "Feature Product"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:424 inc/widget/storevilla-widget.php:1426
+#: inc/widget/storevilla-widget.php:1624
+msgid "On Sale Product"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:457
+msgid "Product List Title"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:463 inc/widget/storevilla-widget.php:893
+#: inc/widget/storevilla-widget.php:1445 inc/widget/storevilla-widget.php:1676
+#: inc/widget/storevilla-widget.php:1721 inc/widget/storevilla-widget.php:1767
+msgid "Select Product Type"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:470 inc/widget/storevilla-widget.php:900
+#: inc/widget/storevilla-widget.php:1064 inc/widget/storevilla-widget.php:1683
+#: inc/widget/storevilla-widget.php:1728 inc/widget/storevilla-widget.php:1774
+msgid "Select Product Category"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:477
+msgid "Enter Number of Products List"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:622
+msgid "A widget that shows offter products."
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:652
+msgid "Select Offer Product"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:708
+msgid "Days"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:709
+msgid "Hours"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:710
+msgid "Mins"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:711
+msgid "Secs"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:838
+msgid "A widget that shows WooCommerce category latest product."
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:887 inc/widget/storevilla-widget.php:1439
+msgid "Product Main Title"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:907 inc/widget/storevilla-widget.php:1071
+#: inc/widget/storevilla-widget.php:1452 inc/widget/storevilla-widget.php:1690
+#: inc/widget/storevilla-widget.php:1735 inc/widget/storevilla-widget.php:1782
+msgid "Enter Number of Products Show"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1011
+msgid ""
+"A widget that shows woocommerce category feature image with selected "
+"category products"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1018
+msgid "Right Align Category Image"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1019
+msgid "Left Align Category Image"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1051
+msgid "Product Category Main Title"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1057
+msgid "Select Display Style (Image Alignment)"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1077
+msgid "Checked to Display Category Info"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1145
+msgid "View All"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1222
+msgid "A widget that shows WooCommerce category"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1257
+msgid "Category Full Background Image"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1269
+msgid "Category Top Title"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1274
+msgid "Category Main Title"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1280
+msgid "Select Category"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1342
+msgid "Products"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1346
+msgid "Product"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1415
+msgid ""
+"A widget that shows WooCommerce all type product (Latest, Feature, On Sale, "
+"Up Sale)."
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1612
+msgid ""
+"A widget that shows WooCommerce all type product (Latest, Feature, On Sale, "
+"Up Sale) in column view."
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1658
+msgid "Product Column One"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1664
+msgid "Checked to Display One Column"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1670
+msgid "Column One Main Title"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1702
+msgid "Product Column Two"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1709
+msgid "Checked to Display Two Column"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1715
+msgid "Column Two Main Title"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1748
+msgid "Product Column Three"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1755
+msgid "Checked to Display Three Column"
+msgstr ""
+
+#: inc/widget/storevilla-widget.php:1761
+msgid "Column Three Main Title"
+msgstr ""
+
+#: inc/widget/team-widget.php:18
+msgid "A widget that shows client team member"
+msgstr ""
+
+#: inc/widget/team-widget.php:28
+msgid "Enter the Display Number of Team"
+msgstr ""
+
+#: inc/widget/team-widget.php:34
+msgid "Display Order"
+msgstr ""
+
+#: inc/widget/team-widget.php:99
+msgid "Email"
+msgstr ""
+
+#: inc/widget/testimonial-widget.php:18
+msgid "A widget that shows client testimonial posts"
+msgstr ""
+
+#: inc/widget/testimonial-widget.php:42
+msgid "Testimonial Top Title"
+msgstr ""
+
+#: inc/widget/testimonial-widget.php:48
+msgid "Testimonial Main Title"
+msgstr ""
+
+#: inc/widget/testimonial-widget.php:54
+msgid "Enter the Display Number of Testimonials"
+msgstr ""
+
+#: inc/widget/widget-fields.php:274
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widget/widget-fields.php:278 inc/widget/widget-fields.php:349
+msgid "Upload"
+msgstr ""
+
+#: inc/widget/widget-fields.php:280 inc/widget/widget-fields.php:350
+msgid "Remove"
+msgstr ""
+
+#: inc/widget/widget-fields.php:283
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widget/widget-fields.php:298
+msgid "View File"
+msgstr ""
+
+#: welcome/sections/actions_required.php:56
+#: welcome/sections/actions_required.php:123
+#: welcome/sections/recommended_plugins.php:43
+#: welcome/sections/recommended_plugins.php:150
+msgid "Version "
+msgstr ""
+
+#: welcome/sections/demo_import.php:117
+msgid "Install : "
+msgstr ""
+
+#: welcome/sections/demo_import.php:117
+msgid " Plugin"
+msgstr ""
+
+#: welcome/sections/getting_started.php:5
+msgid "Links to Theme Options"
+msgstr ""
+
+#: welcome/sections/getting_started.php:11
+msgid "Basic Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:16
+msgid "HomePage Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:31
+msgid "Pricing Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:36
+msgid "Slider Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:41
+msgid "Typography"
+msgstr ""
+
+#: welcome/sections/getting_started.php:46
+msgid "Social Setting"
+msgstr ""
+
+#: welcome/sections/getting_started.php:60
+msgid "Step 1 - Checkout starter sites (Demos) "
+msgstr ""
+
+#: welcome/sections/getting_started.php:61
+#, php-format
+msgid ""
+"%1$s now comes with sites library with %2$s starter sites to pick from. You "
+"can check theme out and decide which one to start with. However you can "
+"decide not to use any one of them and start building your site from scratch."
+msgstr ""
+
+#: welcome/sections/getting_started.php:62
+msgid "See Demos"
+msgstr ""
+
+#: welcome/sections/getting_started.php:68
+msgid "Step 2 - Import demo of your choice "
+msgstr ""
+
+#: welcome/sections/getting_started.php:69
+msgid ""
+"Once you chose one of the available starter sites (demos) - you can install "
+"it. Please be noted that once you install the demo, it will install all the "
+"required plugins too. It is not recommended to install demo on your existing "
+"content. A fresh WordPress installation would be required to install demo to "
+"replicate demo content exactly. "
+msgstr ""
+
+#: welcome/sections/getting_started.php:70
+msgid "Install Demo"
+msgstr ""
+
+#: welcome/sections/getting_started.php:73
+msgid "Step 3 - Start editing the demo content and making your site! "
+msgstr ""
+
+#: welcome/sections/getting_started.php:74
+msgid ""
+"Once you install the demo, you can start editing the content, replacing "
+"images etc."
+msgstr ""
+
+#: welcome/sections/getting_started.php:77
+msgid "Step 4 - You 're done! "
+msgstr ""
+
+#: welcome/sections/getting_started.php:78
+msgid "Go live with the website and get some rest"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:80
+msgid "View Detail"
+msgstr ""
+
+#: welcome/sections/support.php:4
+msgid "Create Support Tickets"
+msgstr ""
+
+#: welcome/sections/support.php:5
+msgid ""
+"If you're having any issues with the theme, feel free to create a ticket in "
+"our support forum. We reply your ticket very soon!"
+msgstr ""
+
+#: welcome/sections/support.php:6
+msgid "Create Ticket"
+msgstr ""
+
+#: welcome/sections/support.php:12
+msgid "Online Chat"
+msgstr ""
+
+#: welcome/sections/support.php:13
+msgid ""
+"If you need an immediate solution, you can try our online chat support too. "
+"However our online time is limited and as below"
+msgstr ""
+
+#: welcome/sections/support.php:14
+msgid "Mon - Fri"
+msgstr ""
+
+#: welcome/sections/support.php:15
+msgid "10AM - 5PM "
+msgstr ""
+
+#: welcome/sections/support.php:16
+msgid "Kathmandu Time (GMT + 5:45)"
+msgstr ""
+
+#: welcome/sections/support.php:17
+msgid "Start Online Chat"
+msgstr ""
+
+#: welcome/sections/support.php:23
+msgid "Email to support team"
+msgstr ""
+
+#: welcome/sections/support.php:24
+msgid ""
+"You can also email to our support team directly at : "
+"support@accesspressthemes.com."
+msgstr ""
+
+#: welcome/sections/support.php:32
+msgid ""
+"Checkout our documentation and get more details on how to setup / configure "
+"theme step by step."
+msgstr ""
+
+#: welcome/sections/support.php:33
+msgid "View Documentation"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:46
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#. Name of the theme
+msgid "StoreVilla Pro"
+msgstr ""
+
+#. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/storevilla-pro/"
+msgstr ""
+
+#. Author of the theme
+msgid "AccessPress Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://accesspressthemes.com/"
+msgstr ""
